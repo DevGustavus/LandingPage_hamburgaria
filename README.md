@@ -1,5 +1,8 @@
 <h1 align="center">Hamburger Restaurant Landing Page:</h1>
 
+## 📲 View the project here
+<a href="https://devgustavus.github.io/LandingPage_hamburgaria/">https://devgustavus.github.io/LandingPage_hamburgaria/</a>
+
 ## 📖 About the project
 In this project, I created a website for a fast-food business. I designed a simple and straightforward layout that is both intuitive and visually appealing. 
 By applying UI/UX principles, I ensured that the website's structure is responsive across various screen sizes and devices. 
